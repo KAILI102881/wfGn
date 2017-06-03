@@ -1,0 +1,13 @@
+CetaFGN				Covariance Matrix of fGn Parameters
+CircFGN             Simulation of a fractional Gaussian noise
+Csum                Cumulative Qeta Difference Function
+fspecBFGN           Spectral Density of a bivariate Fractional Gaussian Noise
+fspecFGN            Spectral Density of a Fractional Gaussian Noise
+fspecPFGN           Spectral Density of a perturbed Fractional Gaussian Noise
+Lpvar               Log Periodogram Variance Function
+per                 Periodogram Estimator
+perturbFGN          Simulation of a perturbed fGn
+Qeta                Qeta function
+QLCfun              Combinational Minimization Function
+wFGN.eval           Evaluation of the modified Whittle estimator for a contaminated fGn
+wFGN				The Whittle estimator for a contaminated fGn

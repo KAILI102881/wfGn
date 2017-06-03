@@ -1,0 +1,16 @@
+	Note: 1.2-x is a major revision from 1.1 (the previous version
+	on CRAN).  See major changes from 5.6-1 onwards.
+
+2010-10-29  Version: 1.2-1
+
+	* wFGN.R : Added the modified Whittle estimator to improve performance for contaminated fGn
+	
+	* wFGN.eval.R : Added the test function for modified Whittle estimator
+	
+	* circFGN.R : Used the function from package "longmemo" instead of "dvfBm" to generate an fGn.  
+
+
+	Copyright 2010 Wonsang You.
+	Copying and distribution of this file, without modification, are
+	permitted provided the copyright notice and this notice are
+	preserved.

@@ -1,0 +1,14 @@
+#useDynlib(wfGn)
+export(CetaFGN,
+		circFGN,
+		Csum,
+		fspecBFGN,
+		fspecFGN,
+		fspecPFGN,
+		Lpvar,
+		per,
+		perturbFGN,
+		Qeta,
+		QLCfun,
+		wFGN.eval,
+		wFGN)

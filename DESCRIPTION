@@ -1,0 +1,15 @@
+Package: wfGn
+Type: Package
+Title: Estimation of the Hurst Parameter for Contaminated Fractional Gaussian Noises
+Version: 1.2-1
+Date: 2010-10-29
+Author: Wonsang You
+Maintainer: Wonsang You
+        <you@ifn-magdeburg.de>
+Description: Estimation of Hurst parameter of a fractional Gaussian noise
+        on the basis of the modified Whittle maximum likelihood estimator 
+        in presence of outliers or an additive noise
+License: GPL (>= 2.0)
+LazyLoad: yes
+Depends: multitaper, rgenoud, snow, Matching
+Packaged: 2010-10-29 21:06:50 UTC; wyou
